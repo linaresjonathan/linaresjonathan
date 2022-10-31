@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linaresjonathan&label=Profile%20views&color=0e75b6&style=flat" alt="linaresjonathan" /> </p>
 
-- 🔭 I’m currently working on [Intersocial](https://github.com/jlinarespr/Intersocial)
+- 🔭 I’m currently working on [Intersocial](https://github.com/linaresjonathan/Intersocial)
 
 - 🌱 I’m currently learning **React Native, AWS Amplify, Jira, Typescript, JS**
 
